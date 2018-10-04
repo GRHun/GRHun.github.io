@@ -11,8 +11,8 @@ github_repo: "https://github.com/GRHun/GRHun.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I shot an arrow into the air.It fell to earth,I knew not where"
+sidebar-avatar: /img/GRHun.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
