@@ -106,7 +106,6 @@ friends: [
 # Netease settings
 netease_comment: false
 gitalk:
-    enable: true
     clientID: '9feb5832ce20099ead51',
     clientSecret: '1cd3ce7d7b6ff3679ea2e05927c6cb516aa03f7b',
     repo: 'GRHun.github.io',
